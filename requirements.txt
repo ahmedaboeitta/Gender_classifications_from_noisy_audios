@@ -1,0 +1,15 @@
+pydub
+pandas
+librosa
+soundfile
+matplotlib
+noisereduce
+numpy
+torchaudio
+torch
+silero-vad
+pedalboard
+ipython
+scikit-learn
+xgboost
+transformers 
